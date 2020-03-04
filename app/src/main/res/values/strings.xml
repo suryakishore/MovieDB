@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Movie Db</string>
+    <string name="movies">Movies</string>
+    <string name="voteCount">Votecount</string>
+    <string name="movieDetail">Movie Detail</string>
+    <string name="about">About</string>
+    <string name="releaseDate">Release Date:</string>
+    <string name="language">Language:</string>
+    <string name="voteAverage">Vote Average:</string>
+
+</resources>
